@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "My first Stream",
+      "description": "How to boil water",
+      "id": 1
+    },
+    {
+      "title": "Another stream",
+      "description": "This is my another stream",
+      "id": 2
+    },
+    {
+      "title": "How to navigate",
+      "description": "This is the tutorial to navigate user on another page.",
+      "userId": "105548529311747889687",
+      "id": 4
+    }
+  ]
+}
